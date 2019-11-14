@@ -1,2 +1,5 @@
 # hello-world
-testing repo
+
+Hi Everyone!!!
+
+This is my first GIT Repo code test.
